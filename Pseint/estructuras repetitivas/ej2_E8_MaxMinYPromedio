@@ -1,0 +1,45 @@
+//Escribir un programa que lea números enteros hasta teclear 0 (cero). Al finalizar el
+//programa se debe mostrar el máximo número ingresado, el mínimo, y el promedio de todos ellos.
+Algoritmo ej2_MaxMinYPromedio
+	
+	///defino variables
+	Definir num , max, min, cont, suma Como Entero
+	Definir promedio Como Real
+	Definir bandera Como Logico
+	
+	///doy valor a las variables
+	bandera=Verdadero
+	cont=0
+	suma=0
+	///agregamos el bucle y nos ayudamos de la variable bandera
+	///para guardar los valores maximos y minimos
+	Repetir
+		Escribir "digite un número entero"; leer num
+		si bandera= Verdadero Entonces
+			max=num
+			min=num
+			bandera= falso
+		SiNo
+			si  num>max Entonces
+				max=num
+			SiNo
+				si num<min y num>0 Entonces
+					min=num
+				FinSi				
+			FinSi			
+		FinSi
+		suma=suma+num		
+		cont=cont+1	
+	Mientras Que num<>0	
+	
+	si cont-1>=1 Entonces
+				promedio= suma/(cont-1)
+		
+		Escribir "el mayor numero ingresado es " max " el menor es " min
+		Escribir "el promedio es ", promedio
+	SiNo
+		Escribir "Error: el primer número ingresado no puede ser 0(cero) "
+	FinSi
+	
+	
+FinAlgoritmo
