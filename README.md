@@ -10,4 +10,4 @@ En este repositorio encontraras documentos PDF y archivos .psc en donde aprender
 
 Esto te dara una base para que puedas aprender cualquier tipo de lenguaje que desees.
 
-💞️ <------------------------------>Hi, I love the programming! @AquilesR22 <------------------------------>💞️
+💞️ <------------------------------>Hi, I love programming! @AquilesR22 <------------------------------>💞️
