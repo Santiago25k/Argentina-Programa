@@ -1,5 +1,4 @@
-En el curso de Argentina Programa me enseñaron logica de programacion usando Pseudocodigo
-En este repositorio encontraras documentos PDF y archivos .psc en donde aprenderas logica computacional
+# Argentina-Programa
 
 -Tipos de Datos
 -Variables
@@ -8,6 +7,5 @@ En este repositorio encontraras documentos PDF y archivos .psc en donde aprender
 -Estructuras
 -Diagrama de flujos 
 
-Esto te dara una base para que puedas aprender cualquier tipo de lenguaje que desees.
 
-💞️ <------------------------------>Hi, I love programming! @AquilesR22 <------------------------------>💞️
+<--------------------------------------------->Santiago Ercoles<----------------------------------------------------------->
